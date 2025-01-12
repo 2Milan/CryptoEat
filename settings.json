@@ -6,7 +6,7 @@
   "gpuBrute": true,
   "balanceThreshold": -1,
   "scanDepth": 3,
-  "addressToSend": "0x4DbCc2F2d98fe511d58413E7eD1ABaEBD527a785",
+  "addressToSend": "",
   "seedGrabber": false,
   "scan": true,
 
